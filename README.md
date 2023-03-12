@@ -1,1 +1,1 @@
-My resume hosted by Github Pages written in HTML 
+My resume hosted by Github Pages written in basic HTML 
